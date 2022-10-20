@@ -32,6 +32,12 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=risnanto73&show_icons=true&locale=en" alt="risnanto73" /></p>
 <br><br>
 
+<img alt="risnanto73" width="45%" src="https://github-readme-stats.vercel.app/api?username=risnanto73&show_icons=true&theme=cobalt">
+
+<img align="right" width="50%" alt="risnanto73's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=risnanto73&theme=cobalt">
+
+<img alt="risnanto73's Top Lang" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risnanto73&layout=compact&theme=cobalt">
+
 [![@risnanto73's Holopin board](https://holopin.me/risnanto73)](https://holopin.io/@risnanto73)
 
 <h3 align="left">Support:</h3>
