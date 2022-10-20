@@ -39,7 +39,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/risnanto73/risnanto73/blob/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/risnanto73/risnanto73/blob/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 [![@risnanto73's Holopin board](https://holopin.me/risnanto73)](https://holopin.io/@risnanto73)
