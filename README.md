@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=risnanto73&label=Profile%20views&color=0e75b6&style=flat" alt="risnanto73" /> </p>
 
+<p align="right"><b>I live in Indonesia</b></p>
+
+<img align="right" src ="https://flagcdn.com/256x192/id.webp" width="50%" />
+
 - 🔭 I’m currently working on **IDN**
 
 - 🌱 I’m currently learning **Laravel**
