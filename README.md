@@ -1,33 +1,47 @@
-<h1 align="center">Hi 👋, I'm Tio Risnanto</h1>
-<h3 align="center">A passionate Android Developer from Indonesia</h3>
+<h2 align="left">Hi 👋! My name is Tio Risnanto and I'm a Android Developer, from Indonesia</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=risnanto73&label=Profile%20views&color=0e75b6&style=flat" alt="risnanto73" /> </p>
+###
 
-<p align="right"><b>I live in Indonesia</b></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&username=risnanto73" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=risnanto73" height="150" alt="languages graph"  />
+</div>
 
-<img align="right" src ="https://flagcdn.com/256x192/id.webp" width="50%" />
+###
 
-- 🔭 I’m currently working on **IDN**
+<img align="right" height="150" src="https://media0.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif?cid=ecf05e4712hr8jpt0weqcn8s3ba2qfcngmxrc7g5nu1azk4b&rid=giphy.gif&ct=g"  />
 
-- 🌱 I’m currently learning **Laravel, Android**
+###
 
-- 🤝 I’m looking for help with **Android**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" width="42" alt="android logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" width="42" alt="kotlin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" width="42" alt="laravel logo"  />
+</div>
 
-- 💬 Ask me about **Android**
+###
 
-- 📫 How to reach me **tiolast63@gmail.com**
+<div align="left">
+  <a href="https://www.youtube.com/channel/UCR-bwVWSxZmxZ9HYzqSP14w" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/risnanto73_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/tio-risnanto-605515164/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> </p>
+<br clear="both">
 
-<img alt="risnanto73" width="45%" src="https://github-readme-stats.vercel.app/api?username=risnanto73&show_icons=true&theme=cobalt">
+<img src="https://raw.githubusercontent.com/risnanto73/risnanto73/blob/output/snake.svg" alt="Snake animation" />
 
-<img alt="risnanto73's Top Lang" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risnanto73&layout=compact&theme=cobalt">
-
+###
 [![@risnanto73's Holopin board](https://holopin.me/risnanto73)](https://holopin.io/@risnanto73)
 
 <h3 align="left">Support:</h3>
