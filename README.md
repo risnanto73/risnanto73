@@ -26,6 +26,10 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=risnanto73&" alt="risnanto73" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=risnanto73&show_icons=true&locale=en" alt="risnanto73" /></p>
+
+<br><br>
+
 [![@risnanto73's Holopin board](https://holopin.me/risnanto73)](https://holopin.io/@risnanto73)
 
 <h3 align="left">Support:</h3>
