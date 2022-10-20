@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**risnanto73/risnanto73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Tio Risnanto</h1>
 <h3 align="center">A passionate Android Developer from Indonesia</h3>
 
@@ -36,5 +33,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=risnanto73&" alt="risnanto73" /></p>
 
--->
 [![@risnanto73's Holopin board](https://holopin.me/risnanto73)](https://holopin.io/@risnanto73)
