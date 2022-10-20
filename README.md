@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **IDN**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Laravel, Android**
 
-- 🤝 I’m looking for help with **Kotlin**
+- 🤝 I’m looking for help with **Android**
 
 - 💬 Ask me about **Android**
 
