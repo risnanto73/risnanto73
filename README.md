@@ -44,8 +44,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=risnanto73&show_icons=true&count_private=true&bg_color=00000000&text_color=808080&hide_border=true" alt="risnanto73" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Risnanto73&theme=onedark&hide_border=true&background=00000000&stroke=80808080" alt="risnanto73" />
-  <a href="https://wakatime.com/@Risnanto73"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Risnanto73&show_icons=true&layout=compact&bg_color=00000000&text_color=808080&hide_border=true" alt="risnanto73" /> </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Risnanto&theme=onedark&hide_border=true&background=00000000&stroke=80808080" alt="risnanto73" />
+  <a href="https://wakatime.com/@Risnanto"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Risnanto&show_icons=true&layout=compact&bg_color=00000000&text_color=808080&hide_border=true" alt="risnanto73" /> </a>
 </p>
 
 <!-- <img src="https://raw.githubusercontent.com/risnanto73/risnanto73/blob/output/snake.svg" alt="Snake animation" /> -->
