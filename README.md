@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Tio Risnanto and I'm a Android Developer, from Indonesia</h2>
+<h2 align="left">Hi 👋! My name is Tio Risnanto and I'm a Android Developer & Web Developer, from Indonesia</h2>
 
 ###
 
